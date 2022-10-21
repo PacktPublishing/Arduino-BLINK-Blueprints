@@ -7,3 +7,7 @@ For further reading, you can also refer to the following books:
 * [Arduino Android Blueprints](https://www.packtpub.com/hardware-and-creative/arduino-android-blueprints)
 * [Arduino Networking](https://www.packtpub.com/hardware-and-creative/arduino-networking)
 * [Arduino Robotic Projects](https://www.packtpub.com/hardware-and-creative/arduino-robotic-projects)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785284182">https://packt.link/free-ebook/9781785284182 </a> </p>
